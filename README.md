@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Information Science & Engineering Student
 
-I'm an engineering student passionate about **Programming, Data Structures & Algorithms, and Software Development**.
+I'm an engineering student passionate about **Programming, Data Structures & Algorithms,AI&ML and Software Development**.
 
 - 🌱 Currently learning **C++, Python & DSA**
 - 💻 Interested in **OOP, Problem Solving & Software Development**
