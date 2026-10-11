@@ -10,6 +10,7 @@ I'm an engineering student passionate about **Programming, Data Structures & Alg
 - 📚 Exploring **Git, GitHub & Open Source**
 - 🎯 Goal: Become a skilled Software Developer
 - ⚡ Fun fact: I enjoy turning ideas into code!
+- 🧠⚡ Machine Learning — Coming Soon 🚀
 
 ---
 
